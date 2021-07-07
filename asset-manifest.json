@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Stopwatch_hooks/static/css/main.df01f2e5.chunk.css",
+    "main.js": "/Stopwatch_hooks/static/js/main.96c31349.chunk.js",
+    "main.js.map": "/Stopwatch_hooks/static/js/main.96c31349.chunk.js.map",
+    "runtime-main.js": "/Stopwatch_hooks/static/js/runtime-main.8c286eeb.js",
+    "runtime-main.js.map": "/Stopwatch_hooks/static/js/runtime-main.8c286eeb.js.map",
+    "static/js/2.6ecdcc33.chunk.js": "/Stopwatch_hooks/static/js/2.6ecdcc33.chunk.js",
+    "static/js/2.6ecdcc33.chunk.js.map": "/Stopwatch_hooks/static/js/2.6ecdcc33.chunk.js.map",
+    "static/js/3.012a85b5.chunk.js": "/Stopwatch_hooks/static/js/3.012a85b5.chunk.js",
+    "static/js/3.012a85b5.chunk.js.map": "/Stopwatch_hooks/static/js/3.012a85b5.chunk.js.map",
+    "index.html": "/Stopwatch_hooks/index.html",
+    "static/css/main.df01f2e5.chunk.css.map": "/Stopwatch_hooks/static/css/main.df01f2e5.chunk.css.map",
+    "static/js/2.6ecdcc33.chunk.js.LICENSE.txt": "/Stopwatch_hooks/static/js/2.6ecdcc33.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/Stopwatch_hooks/static/media/bg.bee16170.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8c286eeb.js",
+    "static/js/2.6ecdcc33.chunk.js",
+    "static/css/main.df01f2e5.chunk.css",
+    "static/js/main.96c31349.chunk.js"
+  ]
+}
